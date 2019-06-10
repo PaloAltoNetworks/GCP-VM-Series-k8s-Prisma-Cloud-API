@@ -1,6 +1,6 @@
 # GCP-k8s-Prisma-Cloud-API
 
-This lab will walk through deploying a Terraform template that deploys a Kubernetes(k8s) cluster, Palo Alto Networks VM-Series firewall into an existing GCP project. After successfully deploying the terraform template, the following infrastructure will be instantiated:
+This lab will guide through deploying a Terraform template that deploys a Kubernetes(k8s) cluster, Palo Alto Networks VM-Series firewall into an existing GCP project. After successfully deploying the terraform template, the following infrastructure will be instantiated:
 
 ![k8s-lab](https://user-images.githubusercontent.com/21991161/59230804-42048280-8ba4-11e9-9a05-0fe8227c54ce.jpg)
 

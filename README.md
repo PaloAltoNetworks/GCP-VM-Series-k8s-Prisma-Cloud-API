@@ -1,4 +1,4 @@
-# GCP-k8s-Prisma-Cloud-API
+# GCP k8s, VM-Series Firewall, and Prisma-Cloud-API LAB
 
 This lab will guide through deploying a Terraform template that creates a Kubernetes(k8s) cluster and Palo Alto Networks VM-Series firewall into an existing GCP project. After successfully deploying the terraform template, the following infrastructure will be instantiated:
 

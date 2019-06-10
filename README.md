@@ -8,7 +8,7 @@ Then the lab will then guide through the use of the Prisma Public Cloud API Scan
 
 ![k8s-lab](https://user-images.githubusercontent.com/21991161/59230805-42048280-8ba4-11e9-9ff5-54fbbd0c5ed2.jpg)
 
-Finally the lab will deploy the manifest file to the k8s cluster and walk through visibility of both North/South and select East/West traffic flows.  The following diagram shows the deployed pods with the traffic flows:
+Finally the scanned manifest file will used to deploy a two tier application to the k8s cluster and walk through visibility of both North/South and select East/West traffic flows.  The following diagram shows the deployed pods with the traffic flows:
 
 ![k8s-lab](https://user-images.githubusercontent.com/21991161/59230806-42048280-8ba4-11e9-935d-2eef2a3f2d6b.jpg)
 

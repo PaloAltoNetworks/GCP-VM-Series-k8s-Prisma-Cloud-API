@@ -4,7 +4,7 @@ This lab will guide through deploying a Terraform template that creates a Kubern
 
 ![k8s-lab](https://user-images.githubusercontent.com/21991161/59230804-42048280-8ba4-11e9-9a05-0fe8227c54ce.jpg)
 
-Then the lab will then guide through the use of the Prisma Public Cloud API Scanning of a K8s Manifest file.  
+Then the lab will then guide through the use of the Prisma Public Cloud API Scanning of a container image and K8s Manifest file.  
 
 ![k8s-lab](https://user-images.githubusercontent.com/21991161/59230805-42048280-8ba4-11e9-9ff5-54fbbd0c5ed2.jpg)
 

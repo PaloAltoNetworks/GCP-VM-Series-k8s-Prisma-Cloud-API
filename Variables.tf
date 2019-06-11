@@ -27,7 +27,7 @@ variable "gce_ssh_user" {
 
 variable "gce_ssh_pub_key" {
   description = " ssh key in the format:  ssh-rsa <key> username "
-  default     = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC3bjwWN/LY87FOZH/uuRXS5ku3OXkxsFIvecXMNDoeTNZU5QSM3bAV8t/IU52GsdQO+f2hv9iVulMfYPwxsMcVen32q+t6dcgtChUXPSk+giGqf71iR2xiqGdk6GgC705SUXG/AX1whNI1qT84wP0nOrJaoGo/SZq4Ryel9mptu1Ifj1vMphyw2WOFOMB3IuUYckZHgwbQxZK4iCGJSZmzP+M03oSKZATwvuI1XXUIUVTCcV45NofgCW3Ocfk0UjhK01l1SO3H4+c+v40Zufpqo4vPMOQajTggygpJ7SRCgOYWJxcdx4cr9ASNteii5LQFqAixJD0+0izXfQEUm0/T dspears@SJCMAC3024G8WL"
+  default     = "ssh-rsa AAAAB3NzaC1yc2EA3IuUYckZHgwbQ7teii5LQFqAixJD0+0izXfQEUm0/T dspears@SJCMAC3024G8WL"
 }
 
 //The rest of the variables do not need to be modified for the K8s Lab
@@ -48,7 +48,7 @@ variable "machine_type_fw" {
 }
 
 variable "bootstrap_bucket_fw" {
-  default = "k8-ew"
+  default = "k8s-ew"
 }
 
 variable "interface_0_name" {
